@@ -7,3 +7,4 @@ Used Vite react tsx.
 npm i
 npm run dev
 
+read the comment in App.tsx.
